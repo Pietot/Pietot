@@ -63,7 +63,7 @@ A program capable of creating mazes with many different algorithms and solving t
 
 <img src="assets/gifs/output.gif" alt="Animation of a maze being created and solved">
 
-## [⚡ Pokedex *(2024)*](https://github.com/Pietot/Pokedex)
+## [🐛 Pokedex *(2024)*](https://github.com/Pietot/Pokedex)
 
 French online pokedex with all the pokemons from the first generation to the last one using external APIs. You can search for a pokemon by its name or its number and see all its informations. You can also filter the pokemons by their types an generation.
 
