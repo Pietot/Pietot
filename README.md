@@ -13,17 +13,11 @@ I am a French developer passionate about artificial intelligence and big data. I
 # 📫 Contacts
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/baptiste-blasquez-3874832b2/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:5px">
-	</a>
-	<span>&nbsp;</span>
-	<a href="mailto:baptiste.blasquez@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:5px">
-	</a>
-	<span>&nbsp;</span>
-	<a href="https://www.baptisteblasquez.distrocloud.fr/">
-		<img src="https://img.shields.io/badge/-MY WEBSITE-000000?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:5px">
-	</a>
+	<a href="https://www.linkedin.com/in/baptiste-blasquez-3874832b2/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:5px"></a>
+	&nbsp;
+	<a href="mailto:baptiste.blasquez@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:5px"></a>
+	&nbsp;
+	<a href="https://www.baptisteblasquez.distrocloud.fr/"><img src="https://img.shields.io/badge/-MY WEBSITE-000000?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:5px"></a>
 </p>
 
 ---
