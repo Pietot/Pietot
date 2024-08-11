@@ -61,13 +61,6 @@ I am a French developer passionate about artificial intelligence and big data. I
 
 </p>
 
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
-
 # 📂 My best Projects
 
 ## [🌀 Lapyrinth _(2024)_](https://github.com/Pietot/Lapyrinth)
