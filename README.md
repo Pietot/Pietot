@@ -1,3 +1,5 @@
+# 👋 Hello everyone ! My name is Baptiste. Here's more informations:
+
 # 🚀 About Me
 
 I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
