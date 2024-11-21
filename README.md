@@ -59,6 +59,12 @@ I am a French developer passionate about artificial intelligence and big data. I
 
 # 📂 My best Projects
 
+## [📌 Maze Maker Solver _(2024)_](https://github.com/Pietot/Maze-Maker-Solver)
+
+An interactive online maze generator and solver able to use several different algorithms.
+
+<img src="assets/maze-maker-solver.png" alt="Example of a maze beeing solved">
+
 ## [🌀 Lapyrinth _(2024)_](https://github.com/Pietot/Lapyrinth)
 
 A program capable of creating mazes with many different algorithms and solving them with different pathfinders.
