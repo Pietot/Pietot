@@ -5,7 +5,7 @@
 I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
 
 - 🖥️ I'm currently working on my own an AI to recognize hanwritten digits.
-- 🌱 I’m currently learning Go, Java and how to create / use a neural network to recognize digits from scratch .
+- 🌱 I’m currently learning Go and how to create / use a neural network to recognize digits from scratch .
 - 💬 Feel free to reach out to me for questions or collaborations on what you think I can do.
 - 📫 You can reach me at baptiste.blasquez@gmail.com or by adding me on discord (username: pietot).
 - ⚡ Random facts: I listen to electronic musics, my favorite game all time is Mario Galaxy and I love Professor Layton serie.
