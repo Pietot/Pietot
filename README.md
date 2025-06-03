@@ -59,6 +59,14 @@ I am a French developer passionate about artificial intelligence and big data. I
 
 # 📂 My best Projects
 
+## [🧠 Handwritten Digits Recognition _(2025)_](https://github.com/Pietot/MNIST-Neural-Network)
+
+A Python Neural Network built from scratch and Pytorch capable of recognizing handwritten digits from the MNIST dataset.
+
+<p align="center">
+    <img src="assets/dnn_architecture.svg" alt="Architecture of the neural network">
+</p>
+
 ## [📌 Maze Maker Solver _(2024)_](https://github.com/Pietot/Maze-Maker-Solver)
 
 An interactive online maze generator and solver able to use several different algorithms.
