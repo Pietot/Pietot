@@ -4,8 +4,8 @@
 
 I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
 
-- 🖥️ I'm currently working on my own AI to play perfectly at Connect 4.
-- 🌱 I’m learning Go, AI and machine leanring algorithms/models.
+- 🖥️ I'm currently working on my own Connect 4 AI to play perfectly.
+- 🌱 I’m also learning Go, AI and machine learning algorithms/models.
 - 💬 Feel free to reach out to me for questions or collaborations on what you think I can do.
 - 📫 You can reach me at baptiste.blasquez@gmail.com or by adding me on discord (username: pietot).
 - ⚡ Random facts: I listen to electronic musics, my favorite game all time is Mario Galaxy and I love Professor Layton serie.
@@ -51,7 +51,7 @@ I am a French developer passionate about artificial intelligence and big data. I
     alt="Github Grade"
     style="width:55%">
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietot&theme=radical" alt="Top Languages"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietot&theme=radical&hide=css,html" alt="Top Languages"
     style="width:55%"/>
 
 </p>
