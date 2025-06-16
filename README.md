@@ -27,14 +27,14 @@ I am a French developer passionate about artificial intelligence and big data. I
 # 🛠️ Languages and Tools
 
 <p align="center">
-	![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-	![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-	![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-	![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-    	<br><br>
-	![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBoZWlnaHQ9IjI0NTUiIHZpZXdCb3g9Ii0xMS45IC0yIDEwMDMuOSA5OTUuNiIgd2lkdGg9IjI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTEyLjEgMzUzLjlzLTI0LTE3LjMgNC44LTQwLjRsNjcuMS02MHMxOS4yLTIwLjIgMzkuNS0yLjZsNjE5LjIgNDY4Ljh2MjI0LjhzLS4zIDM1LjMtNDUuNiAzMS40eiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJtMTcxLjcgNDk4LjgtMTU5LjYgMTQ1LjFzLTE2LjQgMTIuMiAwIDM0bDc0LjEgNjcuNHMxNy42IDE4LjkgNDMuNi0yLjZsMTY5LjItMTI4LjN6IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Im00NTEuOSA1MDAgMjkyLjctMjIzLjUtMS45LTIyMy42cy0xMi41LTQ4LjgtNTQuMi0yMy40bC0zODkuNSAzNTQuNXoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0ibTY5Ny4xIDk3Ni4yYzE3IDE3LjQgMzcuNiAxMS43IDM3LjYgMTEuN2wyMjguMS0xMTIuNGMyOS4yLTE5LjkgMjUuMS00NC42IDI1LjEtNDQuNnYtNjcxLjJjMC0yOS41LTMwLjItMzkuNy0zMC4yLTM5LjdsLTE5Ny43LTk1LjNjLTQzLjItMjYuNy03MS41IDQuOC03MS41IDQuOHMzNi40LTI2LjIgNTQuMiAyMy40djg4Ny41YzAgNi4xLTEuMyAxMi4xLTMuOSAxNy41LTUuMiAxMC41LTE2LjUgMjAuMy00My42IDE2LjJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
-	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-	![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)    
+	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+	<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+	<br><br>
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBoZWlnaHQ9IjI0NTUiIHZpZXdCb3g9Ii0xMS45IC0yIDEwMDMuOSA5OTUuNiIgd2lkdGg9IjI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTEyLjEgMzUzLjlzLTI0LTE3LjMgNC44LTQwLjRsNjcuMS02MHMxOS4yLTIwLjIgMzkuNS0yLjZsNjE5LjIgNDY4Ljh2MjI0LjhzLS4zIDM1LjMtNDUuNiAzMS40eiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJtMTcxLjcgNDk4LjgtMTU5LjYgMTQ1LjFzLTE2LjQgMTIuMiAwIDM0bDc0LjEgNjcuNHMxNy42IDE4LjkgNDMuNi0yLjZsMTY5LjItMTI4LjN6IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Im00NTEuOSA1MDAgMjkyLjctMjIzLjUtMS45LTIyMy42cy0xMi41LTQ4LjgtNTQuMi0yMy40bC0zODkuNSAzNTQuNXoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0ibTY5Ny4xIDk3Ni4yYzE3IDE3LjQgMzcuNiAxMS43IDM3LjYgMTEuN2wyMjguMS0xMTIuNGMyOS4yLTE5LjkgMjUuMS00NC42IDI1LjEtNDQuNnYtNjcxLjJjMC0yOS41LTMwLjItMzkuNy0zMC4yLTM5LjdsLTE5Ny43LTk1LjNjLTQzLjItMjYuNy03MS41IDQuOC03MS41IDQuOHMzNi40LTI2LjIgNTQuMiAyMy40djg4Ny41YzAgNi4xLTEuMyAxMi4xLTMuOSAxNy41LTUuMiAxMC41LTE2LjUgMjAuMy00My42IDE2LjJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="Visual Studio Code"/>
+	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
 </p>
 
 ---
