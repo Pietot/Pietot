@@ -19,6 +19,8 @@ I am a French developer passionate about artificial intelligence and big data. I
 	<span>&nbsp;</span>
 	<a href="mailto:baptiste.blasquez@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:5px"></a>
 	<span>&nbsp;</span>
+	<img src="https://img.shields.io/badge/Pietot-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+	<span>&nbsp;</span>
 	<a href="https://www.baptisteblasquez.distrocloud.fr/"><img src="https://img.shields.io/badge/-MY WEBSITE-000000?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:5px"></a>
 </p>
 
