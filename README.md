@@ -52,7 +52,7 @@ I am a French developer passionate about artificial intelligence and big data. I
     alt="Github Grade"
     style="width:55%">
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietot&theme=radical&hide=css,html" alt="Top Languages"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietot&theme=radical&hide=css,html,vue" alt="Top Languages"
     style="width:55%"/>
 
 </p>
