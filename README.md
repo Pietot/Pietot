@@ -14,15 +14,22 @@ I am a French developer passionate about artificial intelligence and big data. I
 
 # 📫 Contacts
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/baptiste-blasquez-3874832b2/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pg0KPHN2ZyBoZWlnaHQ9IjcyIiB2aWV3Qm94PSIwIDAgNzIgNzIiIHdpZHRoPSI3MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPg0KICAgICAgICA8cGF0aA0KICAgICAgICAgICAgZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiINCiAgICAgICAgICAgIGZpbGw9IiNGRkYiIC8+DQogICAgPC9nPg0KPC9zdmc+" style="border-radius:5px"></a>
-	<span>&nbsp;</span>
-	<a href="mailto:baptiste.blasquez@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:5px"></a>
-	<span>&nbsp;</span>
-	<img src="https://img.shields.io/badge/Pietot-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-	<span>&nbsp;</span>
-	<a href="https://www.baptisteblasquez.distrocloud.fr/"><img src="https://img.shields.io/badge/-MY WEBSITE-000000?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:5px"></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/baptiste-blasquez-3874832b2/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:baptiste.blasquez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+    <!-- <a href="https://baptisteblasquez.fr">
+        <img src="https://img.shields.io/badge/my%20portfolio-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Portfolio"/>
+    </a> -->
+</div>
 
 ---
 
@@ -30,13 +37,19 @@ I am a French developer passionate about artificial intelligence and big data. I
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+    &nbsp;
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    &nbsp;
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+    &nbsp;
 	<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
 	<br><br>
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBoZWlnaHQ9IjI0NTUiIHZpZXdCb3g9Ii0xMS45IC0yIDEwMDMuOSA5OTUuNiIgd2lkdGg9IjI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTEyLjEgMzUzLjlzLTI0LTE3LjMgNC44LTQwLjRsNjcuMS02MHMxOS4yLTIwLjIgMzkuNS0yLjZsNjE5LjIgNDY4Ljh2MjI0LjhzLS4zIDM1LjMtNDUuNiAzMS40eiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJtMTcxLjcgNDk4LjgtMTU5LjYgMTQ1LjFzLTE2LjQgMTIuMiAwIDM0bDc0LjEgNjcuNHMxNy42IDE4LjkgNDMuNi0yLjZsMTY5LjItMTI4LjN6IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Im00NTEuOSA1MDAgMjkyLjctMjIzLjUtMS45LTIyMy42cy0xMi41LTQ4LjgtNTQuMi0yMy40bC0zODkuNSAzNTQuNXoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0ibTY5Ny4xIDk3Ni4yYzE3IDE3LjQgMzcuNiAxMS43IDM3LjYgMTEuN2wyMjguMS0xMTIuNGMyOS4yLTE5LjkgMjUuMS00NC42IDI1LjEtNDQuNnYtNjcxLjJjMC0yOS41LTMwLjItMzkuNy0zMC4yLTM5LjdsLTE5Ny43LTk1LjNjLTQzLjItMjYuNy03MS41IDQuOC03MS41IDQuOHMzNi40LTI2LjIgNTQuMiAyMy40djg4Ny41YzAgNi4xLTEuMyAxMi4xLTMuOSAxNy41LTUuMiAxMC41LTE2LjUgMjAuMy00My42IDE2LjJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="Visual Studio Code"/>
-	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+    &nbsp;
+	<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    &nbsp;
+	<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+
 </p>
 
 ---
