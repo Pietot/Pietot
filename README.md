@@ -4,7 +4,7 @@
 
 I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
 
-- 🖥️ I'm currently working on my own Connect 4 AI to play perfectly.
+- 🖥️ I'm currently working on my own gravity/particle simulation in C++.
 - 🌱 I’m also learning Go, AI and machine learning algorithms/models.
 - 💬 Feel free to reach out to me for questions or collaborations on what you think I can do.
 - 📫 You can reach me at baptiste.blasquez@gmail.com or by adding me on discord (username: pietot).
@@ -83,12 +83,6 @@ An interactive online maze generator and solver able to use several different al
 A program capable of creating mazes with many different algorithms and solving them with different pathfinders.
 
 <img src="assets/gifs/output.gif" alt="Animation of a maze being created and solved">
-
-## [🐛 Pokedex _(2024)_](https://github.com/Pietot/Pokedex)
-
-French online pokedex with all the pokemons from the first generation to the last one using external APIs. You can search for a pokemon by its name or its number and see all its informations. You can also filter the pokemons by their types an generation.
-
-<img src="https://github.com/Pietot/Pokedex/blob/master/img/home.png?raw=true" alt="My pokedex's homepage">
 
 ---
 
