@@ -4,7 +4,7 @@
 
 I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
 
-- 🖥️ I'm currently working on my first YouTube vidéos about a project I did.
+- 🖥️ I'm currently working on my first YouTube video about a project I did.
 - 🌱 I’m also learning Go, Rust, AI and machine learning algorithms/models.
 - 💬 Feel free to reach out to me for questions or collaborations on what you think I can do.
 - 📫 You can reach me at baptiste.blasquez@gmail.com or by adding me on discord (username: pietot).
