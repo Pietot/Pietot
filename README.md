@@ -4,8 +4,8 @@
 
 I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
 
-- 🖥️ I'm currently working on my own Connect 4 AI to play perfectly.
-- 🌱 I’m also learning Go, AI and machine learning algorithms/models.
+- 🖥️ I'm currently working on my first YouTube video about a project I did.
+- 🌱 I’m also learning Go, Rust, AI and machine learning algorithms/models.
 - 💬 Feel free to reach out to me for questions or collaborations on what you think I can do.
 - 📫 You can reach me at baptiste.blasquez@gmail.com or by adding me on discord (username: pietot).
 - ⚡ Random facts: I listen to electronic musics, my favorite game all time is Mario Galaxy and I love Professor Layton serie.
@@ -15,20 +15,12 @@ I am a French developer passionate about artificial intelligence and big data. I
 # 📫 Contacts
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/baptiste-blasquez-3874832b2/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/baptiste-blasquez-3874832b2/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:baptiste.blasquez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="mailto:baptiste.blasquez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-    <!-- <a href="https://baptisteblasquez.fr">
-        <img src="https://img.shields.io/badge/my%20portfolio-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Portfolio"/>
-    </a> -->
+  <a href="#"><img src="https://img.shields.io/badge/pietot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <!-- <a href="https://baptisteblasquez.fr"><img src="https://img.shields.io/badge/my%20portfolio-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Portfolio"/></a> -->
 </div>
 
 ---
