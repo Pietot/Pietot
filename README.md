@@ -72,9 +72,21 @@ I am a French developer passionate about artificial intelligence and big data. I
 
 # 📂 My best Projects
 
+## [🔢 Figonacci _(2025)_](https://github.com/Pietot/Figonacci)
+
+Tool and go package to find large Fibonacci number in a limited time and/or compute a specific Fibonacci number to a really high index.
+
+<p align="center">
+    <img src="https://github.com/Pietot/Figonacci/blob/main/assets/img/figonacci.png?raw=true" alt="Figonacci thumbnail">
+</p>
+
+## [🔗 Connect 4 AI _(2025)_](https://github.com/Pietot/Gonnect-4)
+
+A connect 4 engine written in Go built to play perfectly.
+
 ## [🧠 Handwritten Digits Recognition _(2025)_](https://github.com/Pietot/MNIST-Neural-Network)
 
-A Python Neural Network built from scratch and Pytorch capable of recognizing handwritten digits from the MNIST dataset.
+Python models built from scratch and Pytorch capable of recognizing handwritten digits from the MNIST dataset.
 
 <p align="center">
     <img src="assets/dnn_architecture.svg" alt="Architecture of the neural network">
@@ -91,12 +103,6 @@ An interactive online maze generator and solver able to use several different al
 A program capable of creating mazes with many different algorithms and solving them with different pathfinders.
 
 <img src="assets/gifs/output.gif" alt="Animation of a maze being created and solved">
-
-## [🐛 Pokedex _(2024)_](https://github.com/Pietot/Pokedex)
-
-French online pokedex with all the pokemons from the first generation to the last one using external APIs. You can search for a pokemon by its name or its number and see all its informations. You can also filter the pokemons by their types an generation.
-
-<img src="https://github.com/Pietot/Pokedex/blob/master/img/home.png?raw=true" alt="My pokedex's homepage">
 
 ---
 
