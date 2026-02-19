@@ -1,14 +1,6 @@
-## 👋 Hello everyone ! My name is Baptiste. Here's more informations:
-
-# 🚀 About Me
-
-I am a French developer passionate about artificial intelligence and big data. I love creating my own projects and working on innovative projects. Here’s a bit more about me:
-
-- 🖥️ I'm currently working on my first YouTube video about a project I did.
-- 🌱 I’m also learning Go, Rust, AI and machine learning algorithms/models.
-- 💬 Feel free to reach out to me for questions or collaborations on what you think I can do.
-- 📫 You can reach me at baptiste.blasquez@gmail.com or by adding me on discord (username: pietot).
-- ⚡ Random facts: I listen to electronic musics, my favorite game all time is Mario Galaxy and I love Professor Layton serie.
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=pietot&theme=journey&pixelate_avatar=false">
+</picture>
 
 ---
 
@@ -49,7 +41,7 @@ I am a French developer passionate about artificial intelligence and big data. I
 # 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pietot&theme=radical"
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pietot&theme=tokyonight"
     alt="Profile Details"
     style="border: 1px solid white; border-radius:10px;">
     <br><br>
@@ -69,7 +61,9 @@ I am a French developer passionate about artificial intelligence and big data. I
 Tool and go package to find large Fibonacci number in a limited time and/or compute a specific Fibonacci number to a really high index.
 
 <p align="center">
-    <img src="https://github.com/Pietot/Figonacci/blob/main/assets/img/figonacci.png?raw=true" alt="Figonacci thumbnail">
+    <a href="https://www.youtube.com/watch?v=YnJFzIPjAt4">
+        <img src="https://github.com/Pietot/Figonacci/blob/main/assets/img/figonacci.png?raw=true" alt="Figonacci thumbnail">
+    </a>
 </p>
 
 ## [🔗 Connect 4 AI _(2025)_](https://github.com/Pietot/Gonnect-4)
@@ -88,7 +82,9 @@ Python models built from scratch and Pytorch capable of recognizing handwritten 
 
 An interactive online maze generator and solver able to use several different algorithms.
 
-<img src="assets/maze-maker-solver.png" alt="Example of a maze beeing solved">
+<a href="https://pietot.github.io/Maze-Maker-Solver/">
+    <img src="assets/maze-maker-solver.png" alt="Example of a maze being solved">
+</a>
 
 ## [🌀 Lapyrinth _(2024)_](https://github.com/Pietot/Lapyrinth)
 
