@@ -90,7 +90,11 @@ An interactive online maze generator and solver able to use several different al
 
 A program capable of creating mazes with many different algorithms and solving them with different pathfinders.
 
-<img src="assets/gifs/output.gif" alt="Animation of a maze being created and solved">
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=sEK1UZubv_Q&t=2s&pp=0gcJCa4KAYcqIYzv">
+        <img src="assets/lapyrinth.png" alt="Lapyrinth thumbnail">
+    </a>
+</p>
 
 ---
 
